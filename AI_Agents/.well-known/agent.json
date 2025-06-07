@@ -1,0 +1,1 @@
+{"name": "Simple Weather Agent", "description": "Provides weather information for cities", "version": "1.0.0", "skills": [{"name": "getWeather", "description": "Get weather for a city"}]}
